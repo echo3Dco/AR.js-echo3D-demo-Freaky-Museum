@@ -13,4 +13,4 @@ In the [Assets](https://github.com/echoARxyz/echoAR-AR.js-Freaky-Museum/tree/mas
 * After You finish uploading all your entries, you'll see that every entry has an option to "Download marker". Click the Download Marker button for every entry and save the markers somewhere convenient.
 
 ## How to enjoy your experience
-Open the markers you just downloaded and log into https://console.echoar.xyz/arjs?key=<YOUR-PROJECT-KEY> from your phone. When the camera opens, point it to your markers and see how famous paintings comes to life 😉.
+Open the markers you just downloaded and log into https://console.echoar.xyz/arjs?key=<YOUR-PROJECT-KEY> from your phone. When the camera opens, point it to your markers, click the screen, and see how famous paintings comes to life 😉.
