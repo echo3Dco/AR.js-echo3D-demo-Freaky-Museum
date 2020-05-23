@@ -19,7 +19,7 @@ For each pair of video file and matching image file:
 * When the camera opens, point it to your markers
 * Click on the screem
 * See how famous paintings comes to life in AR!
-* Read more on [how to view in AR.js](https://docs.echoar.xyz/ar.js/deploy-experience#option-2-go-directly-to-website)
+* Read more on [how to use AR.js with echoAR](https://docs.echoar.xyz/ar.js/)
 
 ## Support
 Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or join our [support channel on Slack](https://join.slack.com/t/echoar/shared_invite/enQtNTg4NjI5NjM3OTc1LWU1M2M2MTNlNTM3NGY1YTUxYmY3ZDNjNTc3YjA5M2QyNGZiOTgzMjVmZWZmZmFjNGJjYTcxZjhhNzk3YjNhNjE). 
