@@ -10,8 +10,8 @@ Before you start please note that for every entry there are two things to upload
 
 For each pair of video file and matching image file:
 * [Add](https://docs.echoar.xyz/web-console/manage-pages/content-page/how-to-add-content) to the console a video file and matching image file from the [assets](https://github.com/echoARxyz/echoAR-AR.js-Freaky-Museum/tree/master/assets) folder as a video hologram with an image target.
-* After You finish uploading all your entries, you'll see that every entry has an option to "Download marker". 
-* Click the Download Marker button for every entry and save the markers.
+* After You finish uploading the entry, you'll notice that the new content card has an option to "Download marker". 
+* Click the Download Marker button for save the marker.
 
 ## View your experience
 * Open the markers you just downloaded
