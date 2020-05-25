@@ -1,4 +1,4 @@
-# echoAR-AR.js-Freaky-Museum
+# AR.js-echoAR-demo-Freaky-Museum
 Simple web based AR experience with with multiple video holograms.
 
 ## Register
